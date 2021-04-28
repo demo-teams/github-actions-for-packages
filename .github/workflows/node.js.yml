@@ -26,7 +26,6 @@ jobs:
     strategy:
       fail-fast: false
      
-
     # Specify the container in which actions will run
     container:
       image: ghcr.io/demo-teams/github-actions-for-packages/tic-tac-toe:sha-a434861
